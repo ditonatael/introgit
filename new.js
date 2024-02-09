@@ -1,1 +1,1 @@
-console.log('New')
+const bebas = 'bebas'
