@@ -1,1 +1,1 @@
-console.log('New')
+var bebas = 'bebas'
