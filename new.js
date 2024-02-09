@@ -1,1 +1,1 @@
-let bebas = 'bebas'
+var bebas = 'bebas'
